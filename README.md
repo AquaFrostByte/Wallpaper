@@ -1,2 +1,3 @@
-# Wallpaper
-This is a collection from Wallpapers from the Ionic1k discord
+#🎨 Ionic1k Discord Wallpapers Collection
+A curated collection of wallpapers shared in the Ionic1k Discord server. Not all of these were made by me — it's a community mix of awesome art and aesthetics. Dive in and find something you like!
+
